@@ -23,8 +23,6 @@ Here are some ideas to get you started:
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhiyeon&show_icons=true&theme=radical&show_icons=true&hide=stars&include_all_commits=true&count_private=true&line_height=32)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhiyeon&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhiyeon&layout=compact&hide=javascript,html,CSS&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
